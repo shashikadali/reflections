@@ -18,7 +18,9 @@ organized? How would branches help?
 	Makes user confortouble when he does any mistake or delete a command and helps in restoring it.
 
 How do the diagrams help you visualize the branch structure?
-
+	To know how the branching takes place and know the parent of each commit and make detailed variations in master branch and any other branch.
+	To know how each branch works and make new branches from particular commit.
+	
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
