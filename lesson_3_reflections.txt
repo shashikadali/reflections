@@ -2,3 +2,7 @@
 A. When you want to show your work or need some changes to your work from others and make edits to it.
 2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A. Manually pull changes only when you want the changes to happen in the local and can have a seperate path. Automatic pull wil introduce all changes automatically with allowing to make any changes and having more commit in the file.
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A. forks are used to make a seperate path for the same files in the GitHub and amke changes seperately.
+   clone is used to transfer the files from GitHub to the local repository.
+   branches are made to make seperate changes for a single file and use each path to commit changes independently in a local repository.
