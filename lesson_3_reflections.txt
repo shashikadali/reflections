@@ -6,3 +6,6 @@ A. Manually pull changes only when you want the changes to happen in the local a
 A. forks are used to make a seperate path for the same files in the GitHub and amke changes seperately.
    clone is used to transfer the files from GitHub to the local repository.
    branches are made to make seperate changes for a single file and use each path to commit changes independently in a local repository.
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+A. If you want to start from the point where the copy is left and make new changes to the file and modify in the other way we want.
+   Also, make others to make their changes for the file in the way they want.
