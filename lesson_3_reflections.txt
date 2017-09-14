@@ -9,3 +9,5 @@ A. forks are used to make a seperate path for the same files in the GitHub and a
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 A. If you want to start from the point where the copy is left and make new changes to the file and modify in the other way we want.
    Also, make others to make their changes for the file in the way they want.
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A. I would like to collaborate using Git. It is easy to commit my changes using my local repository than in the GitHub.
